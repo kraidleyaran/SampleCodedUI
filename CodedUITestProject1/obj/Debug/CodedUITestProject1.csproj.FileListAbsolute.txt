@@ -1,0 +1,8 @@
+c:\users\alex\documents\visual studio 2013\Projects\CodedUITestProject1\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll.config
+c:\users\alex\documents\visual studio 2013\Projects\CodedUITestProject1\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+c:\users\alex\documents\visual studio 2013\Projects\CodedUITestProject1\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+c:\users\alex\documents\visual studio 2013\Projects\CodedUITestProject1\CodedUITestProject1\bin\Debug\CUITe.dll
+c:\users\alex\documents\visual studio 2013\Projects\CodedUITestProject1\CodedUITestProject1\bin\Debug\CUITe.xml
+c:\users\alex\documents\visual studio 2013\Projects\CodedUITestProject1\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\CodedUITestProject1\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+c:\users\alex\documents\visual studio 2013\Projects\CodedUITestProject1\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb
